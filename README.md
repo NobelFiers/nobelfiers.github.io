@@ -1,4 +1,4 @@
-# Systeem- en netwerkbeheerder
+# Toegepaste Informatica (Systeem- en netwerkbeheerder)
 ## OVER MIJ
 Ik ben een student met een interesse in automatisatie en netwerkbeheer/beveiliging. In mijn vrije tijd houd ik mij graag bezig met lezen, gamen en modelbouw.
 
