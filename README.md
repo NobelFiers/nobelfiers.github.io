@@ -4,7 +4,7 @@ Ik ben een student met een interesse in automatisatie en netwerkbeheer/beveiligi
 
 ## OPLEIDING
 
-### Toegepaste informatica (Systeem- en netwerkbeheer)      2022-huidig
+### Toegepaste informatica     2022-huidig
 Hogeschool Gent
 
 ### Wetenschappen Economie     2016 - 2022
