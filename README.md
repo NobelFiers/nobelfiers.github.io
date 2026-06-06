@@ -34,3 +34,14 @@ Een beginnende kennis hierin via de VIC.
 
 ### Operating systems
 Ervaring in het gebruiken van windows en verschillende linux distributies zoals alma, ubuntu en mint.
+
+## TALEN
+
+### nederlands:
+vloeiend
+
+### engels:
+zeer vlot
+
+### frans:
+basis
